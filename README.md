@@ -1,5 +1,3 @@
-This repository provides an overview and links to 14 individual projects demonstrating hands-on quantitative finance skills — from classical Black–Scholes to advanced rough volatility and live crypto arbitrage.
-
 ## Quantitative Finance Projects
 
 1. **Vanilla Options Pricing (Black–Scholes)**  
